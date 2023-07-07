@@ -11,13 +11,19 @@
 
 - 🌱 I’m currently learning **New technologies**
 
+- I am Master of Computer Applications Post-Graduate from RV College of Engineering, Bangalore **India**
+
+- 🤝I like solving competitive coding problems, exploring new technologies,travelling **gaming**
+
 - 👨‍💻 All of my projects are available at [https://amit3-portfolio.netlify.app/](https://amit3-portfolio.netlify.app/)
 
-- 💬 Ask me about **React,NodeJS,ExpressJs,Mern-stack,Web Security**
+- 💬 Ask me about **React,NodeJS,ExpressJs,Mern-stack,Web Security,Ma**
 
 - 📫 How to reach me **amitkumar696945@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ZixWUUMCN1q0Fni_BV9rvoqBW0PNDykg/view?usp=drivesdk](https://drive.google.com/file/d/1ZixWUUMCN1q0Fni_BV9rvoqBW0PNDykg/view?usp=drivesdk)
+
+- ⚡ Fun fact **It is never too late to learn something.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,5 +40,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=decode6&show_icons=true&locale=en" alt="decode6" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=decode6&" alt="decode6" /></p>
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/decode6/decode6/blob/output/github-contribution-grid-snake.svg)
