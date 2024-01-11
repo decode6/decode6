@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **New technologies**
 
-- I am Master of Computer Applications Post-Graduate from RV College of Engineering, Bangalore **India**
+- I Completed Master of Computer Applications Post-Graduate from RV College of Engineering, Bangalore **India**
 
 - 🤝I like solving competitive coding problems, exploring new technologies,travelling **gaming**
 
 - 👨‍💻 All of my projects are available at [https://amit3-portfolio.netlify.app/](https://amit3-portfolio.netlify.app/)
 
-- 💬 Ask me about **React,NodeJS,ExpressJs,Mern-stack,Web Security,Ma**
+- 💬 Ask me about **React,NodeJS,ExpressJs,Mern-stack,Web Security
 
 - 📫 How to reach me **amitkumar696945@gmail.com**
 
