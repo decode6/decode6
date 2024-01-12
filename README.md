@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    Hi <img src='./assets/wave.gif' height='26' alt='there'>, I'm Amit Kumar
+    Hi <img src='wave.gif' height='26' alt='there'>, I'm Amit Kumar
 </h1>
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a passionate full-stack software engineer from India." />
@@ -15,23 +15,20 @@
 
 <p align="left"> <a href="https://twitter.com/decode_amit" target="blank"><img src="https://img.shields.io/twitter/follow/decode_amit?logo=twitter&style=for-the-badge" alt="decode_amit" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Development**
-
-- 🌱 I’m currently learning **New technologies**
-
-- I Completed Master of Computer Applications Post-Graduate from RV College of Engineering, Bangalore **India**
-
-- 🤝I like solving competitive coding problems, exploring new technologies,travelling **gaming**
-
-- 👨‍💻 All of my projects are available at [https://amit3-portfolio.netlify.app/](https://amit3-portfolio.netlify.app/)
-
-- 💬 Ask me about **React,NodeJS,ExpressJs,Mern-stack,Web Security
-
-- 📫 How to reach me **amitkumar696945@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZixWUUMCN1q0Fni_BV9rvoqBW0PNDykg/view?usp=drivesdk](https://drive.google.com/file/d/1ZixWUUMCN1q0Fni_BV9rvoqBW0PNDykg/view?usp=drivesdk)
-
-- ⚡ Fun fact **It is never too late to learn something.**
+<h3 align="justify">
+    I currently hold the esteemed position of Full Stack Web Developer at Risewings Technologies. based in Bangalore, India.
+  <br />
+    I am a proud alumni of RV College of Enginnering, Bangalore, India, where I pursued Masters of Computer Applications. Beyond my professional and academic endeavors, I am an enthusiast of competitive coding. 
+    Tackling intricate problems not only stimulates my intellect but also fortifies my problem-solving abilities. My curiosity about emerging technologies is unceasing, motivating me to delve into new realms of innovation and knowledge. 
+    <br /><br />
+    Coding and learning new things are part of my life. These creative outlets offer a balance to my technical pursuits and serve as vehicles for self-expression. I am also an avid traveler, fueled by an adventurous spirit that seeks to 
+    explore diverse cultures and places, enriching my perspectives.<br /><br />
+    Gaming is another facet of my interests, offering an immersive world that fuels my imagination and creativity.<br /><br />
+    In a nutshell, my journey has been a tapestry of academic excellence, professional growth and personal passions, all contributing to a well-rounded individual committed to continuous learning and enrichment.
+</h3>
+<p align='center' style='margin: 16px 4px 8px;'>
+    <img src="dev-working_rounded.gif" alt="working developer">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
