@@ -18,7 +18,7 @@
 <h3 align="justify">
     I currently hold the esteemed position of Full Stack Web Developer at Risewings Technologies. based in Bangalore, India.
   <br />
-    I am a proud alumni of RV College of Enginnering, Bangalore, India, where I pursued Masters of Computer Applications. Beyond my professional and academic endeavors, I am an enthusiast of competitive coding. 
+    I am a proud alumni of RV College of Engineering, Bangalore, India, where I pursued Masters of Computer Applications. Beyond my professional and academic endeavors, I am an enthusiast of competitive coding. 
     Tackling intricate problems not only stimulates my intellect but also fortifies my problem-solving abilities. My curiosity about emerging technologies is unceasing, motivating me to delve into new realms of innovation and knowledge. 
     <br /><br />
     Coding and learning new things are part of my life. These creative outlets offer a balance to my technical pursuits and serve as vehicles for self-expression. I am also an avid traveler, fueled by an adventurous spirit that seeks to 
