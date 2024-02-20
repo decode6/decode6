@@ -1,7 +1,7 @@
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="greetings.gif" alt="Hello World" />
 </p>
-
+ 
 <h1 align="center">
     Hi <img src='wave.gif' height='26' alt='there'>, I'm Amit Kumar
 </h1>
