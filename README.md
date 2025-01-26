@@ -16,7 +16,7 @@
 <p align="left"> <a href="https://twitter.com/decode_amit" target="blank"><img src="https://img.shields.io/twitter/follow/decode_amit?logo=twitter&style=for-the-badge" alt="decode_amit" /></a> </p>
 
 <h3 align="justify">
-    I currently hold the esteemed position of Full Stack Web Developer at Risewings Technologies. based in Bangalore, India.
+    I currently hold the esteemed position of Full Stack Web Developer at Risewings Technologies. based in Bangalore,India.
   <br />
     I am a proud alumni of RV College of Engineering, Bangalore, India, where I pursued Masters of Computer Applications. Beyond my professional and academic endeavors, I am an enthusiast of competitive coding. 
     Tackling intricate problems not only stimulates my intellect but also fortifies my problem-solving abilities. My curiosity about emerging technologies is unceasing, motivating me to delve into new realms of innovation and knowledge. 
